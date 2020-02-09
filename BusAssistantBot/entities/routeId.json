@@ -1,0 +1,9 @@
+{
+  "id": "7924efee-3cdc-4a76-b26f-9b0436109b9b",
+  "name": "routeId",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

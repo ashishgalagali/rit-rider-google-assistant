@@ -1,0 +1,64 @@
+{
+  "id": "e7e8b36f-1960-449f-b188-7a75d34b002a",
+  "name": "findNextShuttles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "21ff8da4-fbdf-4fe8-bd4a-4eefa3af925f",
+          "required": true,
+          "dataType": "@stopId",
+          "name": "stopId",
+          "value": "$stopId",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the stop name."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8c2538b3-5093-49ca-99a6-d5ef557d534a",
+          "required": false,
+          "dataType": "@routeId",
+          "name": "routeId",
+          "value": "$routeId",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

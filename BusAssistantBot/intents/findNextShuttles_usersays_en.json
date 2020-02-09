@@ -1,0 +1,188 @@
+[
+  {
+    "id": "babf9bfe-48b2-435e-a358-0b847e726a7a",
+    "data": [
+      {
+        "text": "rit inn",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1f8cf6e-e28a-4d08-b9f7-b81b63806a8c",
+    "data": [
+      {
+        "text": "perkins green",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51bdeadc-5758-4f4a-9534-98dfe3e6e5f9",
+    "data": [
+      {
+        "text": "province",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "487cabca-dca2-4d8b-994d-796b8750cc95",
+    "data": [
+      {
+        "text": "i will be taking ",
+        "userDefined": false
+      },
+      {
+        "text": "rit inn",
+        "alias": "routeId",
+        "meta": "@routeId",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "rit inn",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5af63319-3bce-4c46-af15-2e13b5529d2a",
+    "data": [
+      {
+        "text": "i want to take ",
+        "userDefined": false
+      },
+      {
+        "text": "province",
+        "alias": "routeId",
+        "meta": "@routeId",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "province",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b16b831c-18cd-4ed1-9784-89e36b4fb638",
+    "data": [
+      {
+        "text": "when is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "province",
+        "alias": "routeId",
+        "meta": "@routeId",
+        "userDefined": true
+      },
+      {
+        "text": " bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "province",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "908ef92f-e45b-4f21-a185-db1cb5cece73",
+    "data": [
+      {
+        "text": "parkpoint",
+        "alias": "routeId",
+        "meta": "@routeId",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "gleason",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52f73148-4412-4c96-954f-e96503f91be9",
+    "data": [
+      {
+        "text": "When is the next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "Province",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cefcf3c7-3aa7-43d5-8bc8-129677692be8",
+    "data": [
+      {
+        "text": "Next bus from ",
+        "userDefined": false
+      },
+      {
+        "text": "Gleason",
+        "alias": "stopId",
+        "meta": "@stopId",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

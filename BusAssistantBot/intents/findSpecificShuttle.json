@@ -1,0 +1,76 @@
+{
+  "id": "459b306d-ed30-4c2c-84fb-6ddcb74a45e2",
+  "name": "findSpecificShuttle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d35fbe26-31c1-45ac-9964-dabf205d55ab",
+          "required": false,
+          "dataType": "@stopId",
+          "name": "stopId",
+          "value": "$stopId",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Are you looking for a specific shuttle?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3e588775-cd5e-494a-b4f6-edfa44e9d0cd",
+          "required": false,
+          "dataType": "@routeId",
+          "name": "routeId",
+          "value": "$routeId",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d58017a7-dd08-4af4-bc77-87e95874ea0d",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "specificShutlle",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

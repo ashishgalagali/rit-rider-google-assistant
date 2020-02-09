@@ -1,0 +1,9 @@
+{
+  "id": "07d120a4-3fc7-4d4e-8625-9339fed62ad1",
+  "name": "stopId",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
